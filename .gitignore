@@ -1,0 +1,8 @@
+/build
+/venv
+**/__pycache__/
+container/db.sqlite3
+node_modules/*
+archive.zip
+fer2013.csv.zip
+data/*
